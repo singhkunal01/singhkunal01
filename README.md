@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhkunal01&show_icons=true&locale=en&layout=compact" alt="singhkunal01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkunal01&show_icons=true&locale=en" alt="singhkunal01" /></p>
+
+![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
