@@ -10,7 +10,7 @@
 
 - 📫 You can reach me by [**MY-GMAIL**](mailto:Kunalsingh142001@gmail.com)
 
-- 📄 Know about my experiences [```MY RESUME```](https://drive.google.com/file/d/1exIAmrVfK4XekPh91tQE3Szp9nWWKE3S/view)
+- 📄 Know about my experiences [```MY RESUME```](https://drive.google.com/file/d/139bIlGVjI-Vl2NYlRSoALK99uBRAtJ1o/view)
 
 ![DEMONSTRATION](https://miro.medium.com/max/2000/1*2rKGJ6h1regwmfMcty3SLw.png)
 
