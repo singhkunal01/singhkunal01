@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=singhkunal01&label=Profile%20views&color=0e75b6&style=flat" alt="singhkunal01" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/singhkunal01.svg?style=social&label=Follow&maxAge=2592000" alt="singhkunal01" /> </p>
 
-- 👨‍💻 Works in **NUCLEUS SOFTWARE EXPORTS LTD.**
+- 👨‍💻 Works at **NUCLEUS SOFTWARE EXPORTS LTD.**
 
 - 🖋️ All of my projects are available [**HERE**](https://github.com/singhkunal01)
 
